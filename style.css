@@ -1,0 +1,45 @@
+/* 
+    Document   : style
+    Created on : 13 พ.ย. 2554, 22:31:47
+    Author     : Moomak
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+.dd_seperate{
+  background-color:#eeeff4 !important;
+}
+
+label.psb{
+  width: 100px;
+}
+
+.fleft{
+  float: left;
+}
+.psbdiv{
+  vertical-align:middle;line-height:25px;clear:both; padding-top: 5px;
+}
+
+.clear{
+  clear: both;
+}
+
+#psb_delay{
+  width: 200px;
+}
+
+#content_box_set{
+  border: 1px solid #c2c7cd;
+  margin-top: 10px;
+  padding: 10px 20px 20px 20px;
+  clear:both;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
